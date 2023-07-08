@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/airbnb-replica/static/css/main.2141bd4d.chunk.css",
-    "main.js": "/airbnb-replica/static/js/main.c186ae27.chunk.js",
-    "main.js.map": "/airbnb-replica/static/js/main.c186ae27.chunk.js.map",
+    "main.js": "/airbnb-replica/static/js/main.903ed61c.chunk.js",
+    "main.js.map": "/airbnb-replica/static/js/main.903ed61c.chunk.js.map",
     "runtime-main.js": "/airbnb-replica/static/js/runtime-main.aa0238de.js",
     "runtime-main.js.map": "/airbnb-replica/static/js/runtime-main.aa0238de.js.map",
     "static/js/2.b5bc2dde.chunk.js": "/airbnb-replica/static/js/2.b5bc2dde.chunk.js",
@@ -26,7 +26,7 @@
     "static/media/elegant-hotel-room-with-big-bed.4b67577f.jpg": "/airbnb-replica/static/media/elegant-hotel-room-with-big-bed.4b67577f.jpg",
     "static/media/gray-sofa-living-room-with-free-space.34a11eca.jpg": "/airbnb-replica/static/media/gray-sofa-living-room-with-free-space.34a11eca.jpg",
     "static/media/interior-modern-comfortable-hotel-room.15400bd2.jpg": "/airbnb-replica/static/media/interior-modern-comfortable-hotel-room.15400bd2.jpg",
-    "static/media/logo.1fd4da7c.png": "/airbnb-replica/static/media/logo.1fd4da7c.png",
+    "static/media/logo.3f2ea7ec.png": "/airbnb-replica/static/media/logo.3f2ea7ec.png",
     "static/media/logo.6ce24c58.svg": "/airbnb-replica/static/media/logo.6ce24c58.svg",
     "static/media/luxury-bedroom-hotel.98daeb51.jpg": "/airbnb-replica/static/media/luxury-bedroom-hotel.98daeb51.jpg",
     "static/media/minimal-interior-design-white-brown-living-room-with-carpet-wooden-floor-generative-ai-aig27.3a646d69.jpg": "/airbnb-replica/static/media/minimal-interior-design-white-brown-living-room-with-carpet-wooden-floor-generative-ai-aig27.3a646d69.jpg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.aa0238de.js",
     "static/js/2.b5bc2dde.chunk.js",
     "static/css/main.2141bd4d.chunk.css",
-    "static/js/main.c186ae27.chunk.js"
+    "static/js/main.903ed61c.chunk.js"
   ]
 }
