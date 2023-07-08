@@ -6,4 +6,17 @@
         padding: 0 60px;
         margin: 0 -30px;
     }
+    & .contact-card {
+        width: fit-content;
+        padding: 15px;
+        background-color: rgba($grey, 0.15);
+        border-radius: 10px;
+        border: 1px solid rgba($grey, 0.35);
+        & strong {
+            font-weight: 500;
+        }
+        & a {
+            color: #0077b5;
+        }
+    }
 }

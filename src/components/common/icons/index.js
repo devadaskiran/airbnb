@@ -11,6 +11,7 @@ export { default as BeachIcon } from './beaches';
 export { default as CaveIcon } from './cave';
 export { default as FilterIcon } from './filter';
 export { default as HeartIcon } from './heart';
+export { default as CloseIcon } from './close';
 
 
 
