@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/airbnb-replica/static/css/main.2141bd4d.chunk.css",
-    "main.js": "/airbnb-replica/static/js/main.903ed61c.chunk.js",
-    "main.js.map": "/airbnb-replica/static/js/main.903ed61c.chunk.js.map",
-    "runtime-main.js": "/airbnb-replica/static/js/runtime-main.aa0238de.js",
-    "runtime-main.js.map": "/airbnb-replica/static/js/runtime-main.aa0238de.js.map",
-    "static/js/2.b5bc2dde.chunk.js": "/airbnb-replica/static/js/2.b5bc2dde.chunk.js",
-    "static/js/2.b5bc2dde.chunk.js.map": "/airbnb-replica/static/js/2.b5bc2dde.chunk.js.map",
-    "static/js/3.3b131b03.chunk.js": "/airbnb-replica/static/js/3.3b131b03.chunk.js",
-    "static/js/3.3b131b03.chunk.js.map": "/airbnb-replica/static/js/3.3b131b03.chunk.js.map",
+    "main.css": "/airbnb-replica/static/css/main.4508345a.chunk.css",
+    "main.js": "/airbnb-replica/static/js/main.b7f8e65b.chunk.js",
+    "main.js.map": "/airbnb-replica/static/js/main.b7f8e65b.chunk.js.map",
+    "runtime-main.js": "/airbnb-replica/static/js/runtime-main.86677057.js",
+    "runtime-main.js.map": "/airbnb-replica/static/js/runtime-main.86677057.js.map",
+    "static/js/2.5521595a.chunk.js": "/airbnb-replica/static/js/2.5521595a.chunk.js",
+    "static/js/2.5521595a.chunk.js.map": "/airbnb-replica/static/js/2.5521595a.chunk.js.map",
+    "static/js/3.bde1a058.chunk.js": "/airbnb-replica/static/js/3.bde1a058.chunk.js",
+    "static/js/3.bde1a058.chunk.js.map": "/airbnb-replica/static/js/3.bde1a058.chunk.js.map",
     "index.html": "/airbnb-replica/index.html",
-    "static/css/main.2141bd4d.chunk.css.map": "/airbnb-replica/static/css/main.2141bd4d.chunk.css.map",
-    "static/js/2.b5bc2dde.chunk.js.LICENSE.txt": "/airbnb-replica/static/js/2.b5bc2dde.chunk.js.LICENSE.txt",
+    "static/css/main.4508345a.chunk.css.map": "/airbnb-replica/static/css/main.4508345a.chunk.css.map",
+    "static/js/2.5521595a.chunk.js.LICENSE.txt": "/airbnb-replica/static/js/2.5521595a.chunk.js.LICENSE.txt",
     "static/media/1.54bf01d3.jpg": "/airbnb-replica/static/media/1.54bf01d3.jpg",
     "static/media/2.7ff8a54d.jpg": "/airbnb-replica/static/media/2.7ff8a54d.jpg",
     "static/media/3.82929382.jpg": "/airbnb-replica/static/media/3.82929382.jpg",
@@ -36,9 +36,9 @@
     "static/media/white-bedroom-hotel.4aa83ed3.jpg": "/airbnb-replica/static/media/white-bedroom-hotel.4aa83ed3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa0238de.js",
-    "static/js/2.b5bc2dde.chunk.js",
-    "static/css/main.2141bd4d.chunk.css",
-    "static/js/main.903ed61c.chunk.js"
+    "static/js/runtime-main.86677057.js",
+    "static/js/2.5521595a.chunk.js",
+    "static/css/main.4508345a.chunk.css",
+    "static/js/main.b7f8e65b.chunk.js"
   ]
 }
