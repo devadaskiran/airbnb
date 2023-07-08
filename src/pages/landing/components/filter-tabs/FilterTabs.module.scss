@@ -1,0 +1,50 @@
+@import 'assets/scss/variables.scss';
+
+.wrapper {
+    & .tab-wrapper {
+        margin: 20px 0;
+        @include md {
+            flex-flow: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+    }
+    & .tab-button {
+        background-color: transparent;
+        border: 0;
+        padding: 15px 0;
+        border-bottom: 2px solid transparent;
+        opacity: 0.6;
+        cursor: pointer;
+        & svg {
+            height: 30px;
+            width: 30px;
+            margin-bottom: 10px;
+        }
+        &.active {
+            border-color: $dark;
+            opacity: 1;
+        }
+        &:hover {
+            border-color: rgba($dark, 0.5);
+        }
+        @include xl {
+            span {
+                display: none;
+            }
+        }
+    }
+    & .filter-button {
+        height: 48px;
+        border-radius: 10px;
+        & > div {
+            display: flex;
+            align-items: center;
+        }
+        & svg {
+            margin-right: 10px;
+            height: 14px;
+            width: 14px;
+        }
+    }
+}

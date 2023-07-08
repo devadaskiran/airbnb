@@ -1,0 +1,46 @@
+@import '../../../../assets/scss/variables.scss';
+
+.wrapper {
+    padding: 0 80px;
+    margin: 0 -80px;
+    min-height: 79px;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: $textDark;
+    & .logo {
+        height: 30px;
+    }
+    & .avatar-button {
+        padding: 5px 5px 5px 12px;
+        & .icon-wrapper {
+            & svg {
+                fill: $grey;
+                &:first-child {
+                    height: 16px;
+                }
+                &:last-child {
+                    height: 30px;
+                    width: 30px;
+                    margin-left: 12px;
+                }
+            }
+        }
+    }
+    & .home-button {
+        font-weight: 400;
+        @include lg {
+            display: none;
+        }
+    }
+    & .filter {
+        @include lg {
+            margin-left: auto;
+        }
+    }
+    @include md {
+        padding: 0 60px;
+        margin: 0 -30px;
+    }
+}

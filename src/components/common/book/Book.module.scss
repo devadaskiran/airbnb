@@ -1,0 +1,27 @@
+@import 'assets/scss/variables.scss';
+
+.wrapper {
+    background: linear-gradient(90deg, #ebebeb 50%, #bebebe 86.53%, #eaeaea 100%);
+    width: 62px;
+    height: 74px;
+    border-radius: 2px 5px 5px 2px;
+    box-shadow: inset 5px 5px 15px 0px rgba($grey, 0.05);
+    border: 1px solid rgba($dark, 0.25);
+    & .border {
+        width: 5px;
+        height: 100%;
+        background: linear-gradient(90deg, rgba($grey, 0.05) 50%, rgba($grey, 0.15) 86.53%, rgba($grey, 0.25) 100%);
+        box-shadow: inset -10px -10px 15px 0px rgba($dark, 0.25);
+    }
+    & .inner {
+        width: 100%;
+        & .round {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            overflow: hidden;
+            background-size: cover;
+            box-shadow: inset 2px 2px 5px 2px $dark;
+        }
+    }
+}

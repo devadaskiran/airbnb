@@ -1,0 +1,21 @@
+@import 'assets/scss/variables.scss';
+
+.wrapper {
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid rgba($grey, 0.5);
+    max-width: 50rem;
+    margin: 16px auto 30px;
+    font-size: 15px;
+    & p {
+        &:first-child {
+            font-weight: 500;
+            margin-right: 20px;
+            padding-right: 20px;
+            border-right: 1px solid rgba($grey, 0.5);
+        }
+        &:last-child {
+            color: rgba($grey, 0.5);
+        }
+    }
+}

@@ -1,0 +1,47 @@
+@import 'assets/scss/variables.scss';
+
+.wrapper {
+    width: 100%;
+    border-radius: 10px;
+    min-height: 300px;
+    position: relative;
+    background-size: cover;
+    cursor: pointer;
+    .like {
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        cursor: pointer;
+        opacity: 0.5;
+        & svg {
+            height: 20px;
+            width: 20px;
+        }
+        &.active {
+            opacity: 1;
+            & svg {
+                fill: $primary;
+            }
+        }
+        & .animation {
+            position: absolute;
+            right: -25px;
+            top: -25px;
+            width: 70px;
+            height: 70px;
+        }
+    }
+    & .book {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        transition: ease-in-out all 0.25s;
+    }
+    &:hover {
+        & .book {
+            transform: perspective(120px) rotateY(-22deg) rotateX(-5deg);
+            margin: 0 0 5px -2.5px;
+            box-shadow: 12px 6px 20px 0px rgba($dark, 0.5);
+        }   
+    }
+}

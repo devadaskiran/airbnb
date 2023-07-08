@@ -1,0 +1,44 @@
+@import 'assets/scss/variables.scss';
+
+.wrapper {
+    border-radius: 40px;
+    border: 1px solid rgba($grey, 0.25);
+    padding: 8px;
+    & .icon-wrapper {
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        background-color: $primary;
+        & svg {
+            height: 12px;
+            fill: $light;
+        }
+    }
+    & .filter-item {
+        & p {
+            padding: 0 16px;
+        }
+        &:last-child {
+            & p {
+                opacity: 0.5;
+                @include lg {
+                    display: none;
+                }
+            } 
+        }
+        &:first-child {
+            @include lg {
+                display: none;
+            }
+        }
+        &:nth-child(2) {
+            @include lg {
+                display: none;
+            }
+        }
+    }
+    @include lg {
+        border: 0;
+        padding: 0;
+    }
+}

@@ -1,0 +1,28 @@
+@import 'assets/scss/variables.scss';
+
+.wrapper {
+    position: fixed;
+    bottom: 0;
+    width: calc(100% - 160px);
+    padding: 10px 80px;
+    background-color: $light;
+    margin: 0 -80px;
+    border-top: 1px solid rgba($grey, 0.25);
+    & ul {
+        list-style: none;
+        gap: 20px;
+        & .language {
+            min-width: 50px;
+            & svg {
+                height: 15px;
+                margin-right: 10px;
+            }
+        }
+        @include lg {
+            justify-content: center;
+        }
+    }
+    @include lg {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,50 @@
+@import '../../../assets/scss/variables.scss';
+
+.wrapper {
+    position: relative;
+    padding: 12px;
+    border-radius: 24px;
+    border-color: transparent;
+    cursor: pointer;
+    color: $textDark;
+    & .dropdown-window {
+        padding: 10px 0;
+        border-radius: 15px;
+        box-shadow: 0 0 20px 0px rgba(41, 41, 41, 0.2);
+        min-width: 240px;
+        position: absolute;
+        right: 0;
+        margin-top: 0.5rem;
+        background-color: $light;
+        & ul {
+            list-style: none;
+            & li {
+                padding: 10px 15px;
+                cursor: pointer;
+            }
+            &.border-top {
+                border-top: 1px solid $grey;
+                margin-top: 0.5rem;
+            }
+        }
+    }
+    &.transparent {
+        background-color: transparent;
+        &:hover {
+            background-color: rgba($grey,0.15);
+        }
+    }
+    &.outllined {
+        background-color: transparent;
+        border: 1px solid rgba($grey, 0.5);
+        transition: all ease-in-out 0.5s;
+        &:hover {
+            box-shadow: 0 2px 4px rgba($grey,0.18);
+        }
+    }
+    & .label {
+        & svg {
+            min-height: 15px;
+        }
+    }
+}
