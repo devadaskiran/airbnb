@@ -4,6 +4,7 @@
     display: grid;
     grid-template-columns: repeat(6, 1fr); 
     gap: 24px;
+    margin-bottom: 60px;
     @include xxl {
         grid-template-columns: repeat(5, 1fr); 
     }
