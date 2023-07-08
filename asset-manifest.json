@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/airbnb-replica/static/css/main.3b2524d5.chunk.css",
-    "main.js": "/airbnb-replica/static/js/main.c7927524.chunk.js",
-    "main.js.map": "/airbnb-replica/static/js/main.c7927524.chunk.js.map",
+    "main.js": "/airbnb-replica/static/js/main.c186ae27.chunk.js",
+    "main.js.map": "/airbnb-replica/static/js/main.c186ae27.chunk.js.map",
     "runtime-main.js": "/airbnb-replica/static/js/runtime-main.aa0238de.js",
     "runtime-main.js.map": "/airbnb-replica/static/js/runtime-main.aa0238de.js.map",
     "static/js/2.b5bc2dde.chunk.js": "/airbnb-replica/static/js/2.b5bc2dde.chunk.js",
@@ -21,24 +21,24 @@
     "static/media/7.e270c81a.jpg": "/airbnb-replica/static/media/7.e270c81a.jpg",
     "static/media/8.e2eb40ca.jpg": "/airbnb-replica/static/media/8.e2eb40ca.jpg",
     "static/media/9.7d6b7511.jpg": "/airbnb-replica/static/media/9.7d6b7511.jpg",
-    "static/media/bangkok-thailand-august-12-2016-beautiful-luxury-living-room.1b1ba6e8.jpg": "/airbnb-replica/static/media/bangkok-thailand-august-12-2016-beautiful-luxury-living-room.1b1ba6e8.jpg",
-    "static/media/double-bed-with-cushions.71ec7729.jpg": "/airbnb-replica/static/media/double-bed-with-cushions.71ec7729.jpg",
-    "static/media/elegant-hotel-room-with-big-bed.238d45ed.jpg": "/airbnb-replica/static/media/elegant-hotel-room-with-big-bed.238d45ed.jpg",
-    "static/media/gray-sofa-living-room-with-free-space.77b5220e.jpg": "/airbnb-replica/static/media/gray-sofa-living-room-with-free-space.77b5220e.jpg",
+    "static/media/bangkok-thailand-august-12-2016-beautiful-luxury-living-room.20bde7ff.jpg": "/airbnb-replica/static/media/bangkok-thailand-august-12-2016-beautiful-luxury-living-room.20bde7ff.jpg",
+    "static/media/double-bed-with-cushions.d9cc7c3d.jpg": "/airbnb-replica/static/media/double-bed-with-cushions.d9cc7c3d.jpg",
+    "static/media/elegant-hotel-room-with-big-bed.4b67577f.jpg": "/airbnb-replica/static/media/elegant-hotel-room-with-big-bed.4b67577f.jpg",
+    "static/media/gray-sofa-living-room-with-free-space.34a11eca.jpg": "/airbnb-replica/static/media/gray-sofa-living-room-with-free-space.34a11eca.jpg",
     "static/media/interior-modern-comfortable-hotel-room.15400bd2.jpg": "/airbnb-replica/static/media/interior-modern-comfortable-hotel-room.15400bd2.jpg",
     "static/media/logo.1fd4da7c.png": "/airbnb-replica/static/media/logo.1fd4da7c.png",
     "static/media/logo.6ce24c58.svg": "/airbnb-replica/static/media/logo.6ce24c58.svg",
-    "static/media/luxury-bedroom-hotel.0ae972b6.jpg": "/airbnb-replica/static/media/luxury-bedroom-hotel.0ae972b6.jpg",
-    "static/media/minimal-interior-design-white-brown-living-room-with-carpet-wooden-floor-generative-ai-aig27.3bbe883a.jpg": "/airbnb-replica/static/media/minimal-interior-design-white-brown-living-room-with-carpet-wooden-floor-generative-ai-aig27.3bbe883a.jpg",
-    "static/media/mockup-poster-frame-modern-interior-background-with-gray-sofa-accessories-room.72f36b33.jpg": "/airbnb-replica/static/media/mockup-poster-frame-modern-interior-background-with-gray-sofa-accessories-room.72f36b33.jpg",
-    "static/media/modern-bedroom-with-mountain-view-3d-render.3ed9cd03.jpg": "/airbnb-replica/static/media/modern-bedroom-with-mountain-view-3d-render.3ed9cd03.jpg",
-    "static/media/modern-white-living-room-with-wall-panels-glass-window-3d-render.a4a20921.jpg": "/airbnb-replica/static/media/modern-white-living-room-with-wall-panels-glass-window-3d-render.a4a20921.jpg",
-    "static/media/white-bedroom-hotel.27bf6f32.jpg": "/airbnb-replica/static/media/white-bedroom-hotel.27bf6f32.jpg"
+    "static/media/luxury-bedroom-hotel.98daeb51.jpg": "/airbnb-replica/static/media/luxury-bedroom-hotel.98daeb51.jpg",
+    "static/media/minimal-interior-design-white-brown-living-room-with-carpet-wooden-floor-generative-ai-aig27.3a646d69.jpg": "/airbnb-replica/static/media/minimal-interior-design-white-brown-living-room-with-carpet-wooden-floor-generative-ai-aig27.3a646d69.jpg",
+    "static/media/mockup-poster-frame-modern-interior-background-with-gray-sofa-accessories-room.5c9f298c.jpg": "/airbnb-replica/static/media/mockup-poster-frame-modern-interior-background-with-gray-sofa-accessories-room.5c9f298c.jpg",
+    "static/media/modern-bedroom-with-mountain-view-3d-render.640347b6.jpg": "/airbnb-replica/static/media/modern-bedroom-with-mountain-view-3d-render.640347b6.jpg",
+    "static/media/modern-white-living-room-with-wall-panels-glass-window-3d-render.51fadf7d.jpg": "/airbnb-replica/static/media/modern-white-living-room-with-wall-panels-glass-window-3d-render.51fadf7d.jpg",
+    "static/media/white-bedroom-hotel.4aa83ed3.jpg": "/airbnb-replica/static/media/white-bedroom-hotel.4aa83ed3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aa0238de.js",
     "static/js/2.b5bc2dde.chunk.js",
     "static/css/main.3b2524d5.chunk.css",
-    "static/js/main.c7927524.chunk.js"
+    "static/js/main.c186ae27.chunk.js"
   ]
 }
